@@ -1,0 +1,12 @@
+{
+  "name": "winston",
+  "main": "lib/winston.d.ts",
+  "homepage": "https://github.com/winstonjs/winston#readme",
+  "version": "2.2.0",
+  "globalDevDependencies": {
+    "node": "registry:env/node#6.0.0+20160813135048"
+  },
+  "devDependencies": {
+    "blue-tape": "registry:npm/blue-tape#0.2.0+20160723033700"
+  }
+}
